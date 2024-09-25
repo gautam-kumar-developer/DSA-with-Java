@@ -30,4 +30,3 @@ public class FindUnique {
         System.out.println("Unique Number: " + findUnique(arr));
     }
 }
-
